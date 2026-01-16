@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tencent-source.github.io/ai-app-builder-bonus/sitemap.xml
